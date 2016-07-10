@@ -1,0 +1,11 @@
+Package: hub
+Homepage: https://hub.github.com/
+Vcs-Git: https://github.com/github/hub.git
+Vcs-Browser: https://github.com/github/hub
+Maintainer: hitsumabushi <053023.math@gmail.com>
+Architecture: amd64
+Version: 2.2.3
+Depends: git (>= 1.7.3)
+Description: hub is a command line tool that wraps git in order to extend it with extra features and commands that make working with GitHub easier.
+  hub is best aliased as git,  so you can type $ git <command> in the shell and get all the usual hub features. See "Aliasing" below.
+
